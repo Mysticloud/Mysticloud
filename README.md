@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **updating all repository information**
 
 - 👯 You can get hosting on [Our Website](https://mysticlouds.com)
-- 👯 You can get support on [Discord](https://discord.gg/ENFJgjxgRR)
+- 👤 You can get support on [Discord](https://discord.gg/ENFJgjxgRR)
 
 - 🤝 I’m looking for help with **Adding features to trial servers**
 
