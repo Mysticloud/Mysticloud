@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mysticlouds</h1>
-<h3 align="center">A Server hosting company with a focus on being As transparent as possible!</h3>
+<h3 align="center">A Server hosting company with a focus on being as transparent as possible!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysticloud&label=Profile%20views&color=0e75b6&style=flat" alt="mysticloud" /> </p>
 
