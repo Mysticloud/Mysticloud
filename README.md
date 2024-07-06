@@ -14,8 +14,7 @@
 - 📫 How to reach me **mystical@mysticlouds.com**
 
 <h3 align="left">Connect with me:</h3>
-[Discord](https://discord.gg/ENFJgjxgRR)
-[Website](https://mysticlouds.com)
+<h3 align="left">[Discord](https://discord.gg/ENFJgjxgRR)</h3>
 <p align="left">
 </p>
 
